@@ -1,2 +1,5 @@
-#compilation#
+#dossier contenant les fichiers de compilation#
 out/
+
+#fichier de configuration#
+SimpleFraction.iml
